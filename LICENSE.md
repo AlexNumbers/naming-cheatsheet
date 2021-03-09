@@ -2,7 +2,7 @@ MIT License
 
 CHANGE7
 
-Copyright (c) 2018—preset Artem Zakharchenko
+Copyright (c) 2021-present AlexNumbers
 
 CHANGE8
 
